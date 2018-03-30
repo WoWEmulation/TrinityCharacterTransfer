@@ -20,14 +20,14 @@ Application was originaly developed for wowresource.eu comunity in late of 2011 
 * Copy Addon/Transfer to your Interface/Addons folder
 * Enable addon  in-game
 
-### Applicaiton
+### Application
 *  Edit TC2 World server config to enable remote access
 ```
 Ra.Enable = 1			
 Ra.Port = 3443	
 Ra.MinLevel = 3	
 ```
-* Upload contets of Web_PHP folder to your webserver's document root
+* Upload contents of Web_PHP folder to your webserver's document root
 * Edit config.php
 
 
