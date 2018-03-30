@@ -1,0 +1,6 @@
+## Author: Hisgrak
+## Interface: 30300
+## Notes: Helper for TC2 character transfer.
+## Title: Transfer
+## Version: 1.0
+Frame.xml
